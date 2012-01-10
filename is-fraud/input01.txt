@@ -1,0 +1,17 @@
+16
+1,1,bugs@bunny.com,123 Sesame St.,New York,New York,10011,12345689010
+2,1,bugs+1234@bunny.com,123 Sesame St.,New York,New York,10011,1234568901
+3,1,bug..1@buNNy.com,123 Sesame St.,New York,NY,10011,12345689
+4,1,bugs1@buNNy.com,123 Sesame St.,New York,NY,10011,12345689010
+5,1,bugs..1@bunny.com,123 Sesame St.,New York,NY,10011,1234568901
+6,1,bugs.1+hello world@bunny.com,123 Sesame St.,New York,NY,10011,123456890
+7,1,bugs99@bunny1.com,1234 Sesame St.,New York,NY,10011,123456890
+8,1,bugs@bUNny1.com,12345 Sesame St.,New York,NY,10011,123456890
+9,1,bugs@bunny1.com,12345 Sesame Street.,New York,NY,10011,12345689
+10,1,bugs100@bunny1.com,12345 Sesame Road,New York,NY,10011,123456890
+11,1,bugs100-2@bUNNy1.com,12345 Sesame Rd.,New York,NY,10011,1234568
+12,1,elmer@fudd.com,1245 Sesame Rd.,New York,NY,10011,1234568
+13,1,elmer1@fudd.com,1245 Sesame Rd.,Chicago,IL,10011,123456
+13,1,elmer1@fudd.com,1245 Sesame Rd.,Chicago,IL,10011,123456
+15,1,elmer3@fudd.com,1245 Sesame Rd.,Los Angeles,CA,10011,123456
+16,1,elmer4@fudd.com,1245 Sesame Rd.,Los Angeles,CA,10011,1234568
