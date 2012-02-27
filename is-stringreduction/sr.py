@@ -33,6 +33,7 @@ for index in range(1, length+1):
                             # our current match is better than current best_match
                             # return this match
                             new_len = solve(result, best_match)
+
                             if new_len < best_match:
                                 best_match = new_len
                                 return best_match
